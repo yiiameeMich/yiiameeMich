@@ -7,17 +7,9 @@
 
 ## Stack
 
-`Nuxt · Vue`
+`Nuxt · Vue` | `TypeScript` | `Vite · Nitro · H3` | `Vitest · Playwright`
 
-`TypeScript`
-
-`Vite · Nitro · H3`
-
-`SSR Architectures`
-
-`Performance Optimization`
-
-`Vitest · Playwright`
+`SSR Architectures` | `Performance Optimization`
 
 `Express · MongoDB`
 
